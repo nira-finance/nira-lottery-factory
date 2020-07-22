@@ -1,5 +1,7 @@
 # nira-lottery-factory
 A PoC and implementation of Veedo Beacon VDF for randomly drawing the lottery.
+
+LINK TO THE PRESENTATION: -> [Google Slide](https://docs.google.com/presentation/d/1ay-UwVKRk5NcidY7aPdZaA-cmKMOT8eBKGSxusW57rI/edit?usp=sharing) <-
 ![Code Flow Diagram](https://github.com/nira-finance/nira-lottery-factory/blob/master/Screen%20Shot%202020-07-22%20at%2011.05.27%20PM.png)
 #### NOTE: F.sol has been Deployed on Rosp Newtork. And you my friend are free to play with it.
 
