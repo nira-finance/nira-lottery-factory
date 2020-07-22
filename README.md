@@ -38,3 +38,7 @@ Use the method :
     }
 `
 To draw post end Block to draw the lottery and winner will be rewarded with pot.
+
+For more queries and connect: DM me with the opening message  `Hi, Code73` on my telegram: [Elviric](https://t.me/Elviric).
+
+Appreciate a ⭐️Star top right corner which keeps us motivated to grow as open sourced company.
