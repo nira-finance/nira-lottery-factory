@@ -1,7 +1,7 @@
 pragma solidity >=0.4.22 <0.7.0;
     /**
      * author:Elviric
-     * Novel Lottery Factory.
+     * Nira Lottery Factory.
      */
      
      import "./L.sol";
