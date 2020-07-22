@@ -1,6 +1,6 @@
 # nira-lottery-factory
 A PoC and implementation of Veedo Beacon VDF for randomly drawing the lottery.
-
+![Code Flow Diagram](https://github.com/nira-finance/nira-lottery-factory/blob/master/Screen%20Shot%202020-07-22%20at%2011.05.27%20PM.png)
 #### NOTE: F.sol has been Deployed on Rosp Newtork. And you my friend are free to play with it.
 
 
@@ -41,4 +41,4 @@ To draw post end Block to draw the lottery and winner will be rewarded with pot.
 
 For more queries and connect: DM me with the opening message  `Hi, Code73` on my telegram: [Elviric](https://t.me/Elviric).
 
-Appreciate a ⭐️Star top right corner which keeps us motivated to grow as open sourced company.
+P.S: I would appreciate a ⭐️ top right corner which keeps us motivated to grow as open sourced company🙏.
