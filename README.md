@@ -35,7 +35,6 @@ Use the method :
     
          
         emit Winner(winningTicket,winningAddress,y);
-    }`
-    
-    To draw post end Block to draw the lottery and winner will be rewarded with pot.
-
+    }
+`
+To draw post end Block to draw the lottery and winner will be rewarded with pot.
