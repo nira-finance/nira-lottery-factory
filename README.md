@@ -23,7 +23,9 @@ L.sol(Lottary Instance contract bonded by start block and end block) Address:
 `generated on successful calling above function`
 
 Use the method :
-`    function drawLottery() public  onlySponsor over{
+
+`
+function drawLottery() public  onlySponsor over{
         
          require(block.number>endBlock,"Drawing");
          (,bytes32 y) =  rop_b.getLatestRandomness();
